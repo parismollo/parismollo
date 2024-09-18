@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parismollo
 - 👀 I’m interested in smart city technologies
-- 🌱 I’m currently working on [Mia Labs](https://github.com/Mia-Labs) 
 - 📫 How to reach me: parismolloch@gmail.com
 
 _While the majority of my projects are private, I can provide you access to view them. Simply send me a message at parismolloch@gmail.com, and I will be happy to grant you access._
